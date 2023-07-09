@@ -16,3 +16,5 @@ for (int i = 0; i < array1.Length; i++)
         count++;
     }
 }
+
+string[] array2 = new string[count];
